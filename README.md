@@ -1,6 +1,6 @@
 # Url Project
 
-This tutorial is in https://bluuweb.github.io/react/crud-hooks/
+This tutorial is in https://bluuweb.github.io/react/crud-hooks/ and https://www.taniarascia.com/crud-app-in-react-with-hooks
 
 # Getting Started with Create React App
 
